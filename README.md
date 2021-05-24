@@ -19,4 +19,4 @@ Está procurando uma hospedagem bacana pra testar e até mesmo publicar tuas apl
 [Documentação do Socket.IO](https://socket.io)
 
 ## Observações
-Este código faz parte do curso **_Desenvolvimento Back-end com Node.js_** na [Digital Inovation One](https://digitalinnovation.one/cursos/desenvolvimento-back-end-com-nodejs).
+Este código faz parte do curso **_Desenvolvimento Back-end com Node.js_** na [Digital Innovation One](https://digitalinnovation.one/cursos/desenvolvimento-back-end-com-nodejs).
